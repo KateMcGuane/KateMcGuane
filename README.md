@@ -1,6 +1,5 @@
 👋 Hi, I’m Kate
 
-- 👀 I’m interested in life-long learning, art, coffee, plants and psychology.
 - 🌱 I’m currently learning Django.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not learning all things code, I make pottery.
